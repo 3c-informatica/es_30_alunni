@@ -1,0 +1,8 @@
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\obj\Debug\es_30_alunni.csproj.AssemblyReference.cache
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\obj\Debug\es_30_alunni.csproj.CoreCompileInputs.cache
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\bin\Debug\es_30_alunni.exe.config
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\bin\Debug\es_30_alunni.exe
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\bin\Debug\es_30_alunni.pdb
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\obj\Debug\es_30_alunni.exe
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\obj\Debug\es_30_alunni.pdb
+C:\Users\e.andru.3864\Desktop\es_30_alunni\es_30_alunni\obj\Debug\es_30_alunni.exe.config
